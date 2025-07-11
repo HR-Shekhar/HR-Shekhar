@@ -2,6 +2,6 @@
 - 👀 I’m interested in AI,ML&Robotics
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on any exciting AI automation Project😅
-- 📫 You can reach me with my username>>> {linkedin.com/in/himanshu-shekhar-19040b317}(LinkedIn) or h_shekhar_ig(instagram) or twitter/X {https://x.com/HimanshuSh3khar}
+- 📫 You can reach me with my username>>> Linkedin {linkedin.com/in/himanshu-shekhar-19040b317}  or h_shekhar_ig(instagram) or twitter/X {https://x.com/HimanshuSh3khar}
 - 😄 Pronouns: looking for one 
 - ⚡ Fun fact: not any yet
