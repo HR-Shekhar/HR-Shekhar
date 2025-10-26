@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu_Shekhar
 - 👀 I’m interested in AI,ML&Robotics
-- I know Machine Learning(supervised, unsupervised, reinforcement and also reccomender systems.). I have done DL and spent a lot of time in learning ComputerVision(CNNs).
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on any exciting AI automation Project😅
+- I know Machine Learning(supervised, unsupervised, reinforcement and also reccomender systems.) and Deep Learning
+- 🌱 I’m currently learning MLOps
+- 💞️ I’m looking to collaborate on any exciting AI automation Projects or any end to end Projects😅
 - 📫 You can reach me with my username>>> Linkedin {linkedin.com/in/himanshu-shekhar-19040b317}  or h_shekhar_ig(instagram) or twitter/X {https://x.com/HimanshuSh3khar}
-- ⚡ Fun fact: not any yet
+- ⚡ Fun fact: I am fun to work with.
